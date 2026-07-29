@@ -130,6 +130,9 @@
     </div>
 
     <button @click="$emit('back')" class="back-button">Retour</button>
+    <hr/>
+      <p style="margin: 10; font-size: 0.55rem; color: #777;"><i>Dernière sauvegarde de la base de données le 29 juillet 2026</i></p>
+          <hr/>
   </div>
 </template>
 

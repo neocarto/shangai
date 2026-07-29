@@ -16,12 +16,10 @@ export const predefinedPlayersRiate = [
     name: "Louis CLXXX",
     avatar: import.meta.env.BASE_URL + "img/louis.jpg",
   },
-  {
-    id: 7,
-    name: "Cramomille",
-    avatar: import.meta.env.BASE_URL + "img/cramomille.png",
-  },
+
   { id: 8, name: "Chloé", avatar: import.meta.env.BASE_URL + "img/ponpon.png" },
+  { id: 9, name: "Olivier" },
+  { id: 10, name: "Nicolas" },
 ];
 
 export const predefinedPlayersCondorcet = [
@@ -39,6 +37,11 @@ export const predefinedPlayersCondorcet = [
     id: 1003,
     name: "Mattia",
     avatar: import.meta.env.BASE_URL + "img/archi.jpg",
+  },
+  {
+    id: 7,
+    name: "Cramomille",
+    avatar: import.meta.env.BASE_URL + "img/cramomille.png",
   },
 ];
 
